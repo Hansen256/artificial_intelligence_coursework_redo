@@ -4,6 +4,24 @@
 
 This project analyzes the UCI Air Quality Dataset to predict high pollution events using machine learning techniques. The analysis includes comprehensive data preprocessing, exploratory data analysis (EDA), and implementation of multiple machine learning models to classify pollution events.
 
+## How to Run
+
+1. Clone the repository
+
+``` git bash
+git clone 
+```
+
+1. Ensure all required packages are installed
+
+1. Open the Jupyter notebook:
+
+   ```bash
+   jupyter notebook air_quality_analysis.ipynb
+   ```
+
+1. Run all cells sequentially to reproduce the complete analysis
+
 ## Project Objectives
 
 - Load and preprocess historical air quality measurements from an Italian monitoring station
@@ -75,17 +93,6 @@ artificial_intelligence_coursework_redo/
 └── README.md                    # This file
 ```
 
-## How to Run
-
-1. Ensure all required packages are installed
-2. Open the Jupyter notebook:
-
-   ```bash
-   jupyter notebook air_quality_analysis.ipynb
-   ```
-
-3. Run all cells sequentially to reproduce the complete analysis
-
 ## Model Performance
 
 Both models demonstrate strong performance in classifying pollution events:
@@ -93,6 +100,5 @@ Both models demonstrate strong performance in classifying pollution events:
 - **Logistic Regression**: Stable performance with good interpretability
 - **Decision Tree**: Captures non-linear patterns with competitive accuracy
 - Cross-validation ensures robust performance estimates
-
 
 *This project demonstrates practical application of data science techniques to environmental monitoring and prediction.*
