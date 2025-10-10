@@ -9,7 +9,7 @@ This project analyzes the UCI Air Quality Dataset to predict high pollution even
 1. Clone the repository
 
 ``` git bash
-git clone 
+git clone https://github.com/Hansen256/artificial_intelligence_coursework_redo
 ```
 
 1. Ensure all required packages are installed
