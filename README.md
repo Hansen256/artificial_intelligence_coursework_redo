@@ -101,4 +101,11 @@ Both models demonstrate strong performance in classifying pollution events:
 - **Decision Tree**: Captures non-linear patterns with competitive accuracy
 - Cross-validation ensures robust performance estimates
 
-*This project demonstrates practical application of data science techniques to environmental monitoring and prediction.*
+## Authors 
+
+- Siima Diana                2023-B291-12710
+- Mulindwa Solomon           2023-B291-12501
+- Tumusiime Hansen Andrew    2023-B291-10756
+- Pande Azizi                2023-B291-12779
+- Mwebesa Johnson            2023-B291-13172
+- Katerega Josepth Travour   2023-B291-10759
